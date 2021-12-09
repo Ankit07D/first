@@ -1,0 +1,9 @@
+package com.myspace.first;
+
+import java.lang.Number;
+
+rule "r1"
+	dialect "mvel"
+	when
+	then
+end
